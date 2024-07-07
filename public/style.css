@@ -85,13 +85,16 @@ section .content{
 }
 
 .main-content h2{
-    color: #f74f10;
+    color: #b93e19;
     font-size: clamp(2rem, 1rem + 5vw, 3.5rem);
+    background-color: black;
 }
 
 .main-content p{
     margin-top: 10px;
-    color: #635e5c;
+    color: #dd470c;
+    font-size: large;
+    background-color: black;
 }
 
 .main-content .order{

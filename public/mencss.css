@@ -1,0 +1,49 @@
+#men-section, #women-section, #kids-section {
+    background-color: #f6f6f6; 
+    padding: 80px 20px; /* Adjust padding as needed */
+    text-align: center;
+}
+
+.men-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.men-content h2 {
+    color: #000; /* Change to desired text color */
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.shoe-item {
+    margin-bottom: 10px;
+}
+
+.shoe-item img {
+    max-width: 100%;
+}
+
+.shoe-item h4 {
+    margin: 10px 0;
+    font-size: 1.8rem;
+}
+
+.shoe-item p {
+    color: #777; /* Change to desired text color */
+    margin-bottom: 10px;
+}
+
+.shoe-item button {
+    border: none;
+    outline: none;
+    background-color: #f74f10;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shoe-item button:hover {
+    background-color: #8a3313;
+}
